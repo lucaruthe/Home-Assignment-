@@ -1,7 +1,7 @@
-Programming for Psychologists (2025/2026)
-Home Assignment: Visualizing Neurosynth Meta-Analysis Data for “Decision Making”
-Course coordination: Matthias Nau
-Student: Luca Celine Ruthe
+### Programming for Psychologists (2025/2026)
+# Home Assignment: Visualizing Neurosynth Meta-Analysis Data for “Decision Making”
+Course coordination: Matthias Nau\
+Student: Luca Celine Ruthe\
 Date: Nov 30, 2025
 
 Link to the Neurosynth page of my concept "Decision making": [MRI Data](https://neurosynth.org/analyses/terms/decision%20making/)
