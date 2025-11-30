@@ -2,9 +2,9 @@
 # Home Assignment: Visualizing Neurosynth Meta-Analysis Data for “Decision Making”
 Course coordination: Matthias Nau\
 Student: Luca Celine Ruthe\
-Date: Nov 30, 2025\
+Date: Nov 30, 2025
 
-Link to the Neurosynth page of my concept "Decision making": [MRI Data](https://neurosynth.org/analyses/terms/decision%20making/)\
+Link to the Neurosynth page of my concept "Decision making": [MRI Data](https://neurosynth.org/analyses/terms/decision%20making/)
 
 ### Description of the project:
 This project analyses and visualizes meta-analytic fMRI data for the cognitive concept “decision making”, using anatomical and functional maps downloaded from the Neurosynth platform.
@@ -16,7 +16,7 @@ Notebook: home_assignment_notebook.ipynb — includes all steps (file loading, v
 Data: uploaded from here: https://neurosynth.org/analyses/terms/decision%20making/\
 Functional map (decision making_uniformity-test_z_FDR_0.01.nii)\
 Anatomical map (anatomical.nii)\
-Figures: Visualization outputs shown directly in the notebook.\
+Figures: Visualization outputs shown directly in the notebook.
 
 
 ### Python Packages Used
@@ -27,4 +27,4 @@ Matplotlib\
 NiBabel\
 Nilearn\
 glob (standard library)\
-os (standard library)\
+os (standard library)
