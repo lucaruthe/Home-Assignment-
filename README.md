@@ -13,7 +13,7 @@ The project includes code for automatically locating the MRI files, visualizing 
 
 ### Table of Contents:
 Notebook: home_assignment_notebook.ipynb — includes all steps (file loading, visualization, histogram, documentation)\
-Data: uploaded from here: https://neurosynth.org/analyses/terms/decision%20making/\
+Data: uploaded from here: https://neurosynth.org/analyses/terms/decision%20making/ \
 Functional map (decision making_uniformity-test_z_FDR_0.01.nii)\
 Anatomical map (anatomical.nii)\
 Figures: Visualization outputs shown directly in the notebook.
